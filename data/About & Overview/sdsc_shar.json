@@ -1,0 +1,32 @@
+[
+{
+  "title": "SDSC SHAR: Overview",
+  "section": "About",
+  "content": [
+    "Satish Dhawan Space Centre SHAR (SDSC SHAR), Sriharikota, is the spaceport of India and a key ISRO facility.",
+    "It supports national and international missions for remote sensing, communication, and scientific applications.",
+    "Previously known as Sriharikota Range (SHAR), it was renamed in 2002 in memory of Prof. Satish Dhawan."
+  ],
+  "tags": ["SDSC SHAR", "ISRO", "Spaceport", "Overview"]
+},
+{
+  "title": "SDSC SHAR: Origin & History",
+  "section": "About",
+  "content": [
+    "In the 1960s, Dr. Vikram Sarabhai envisioned a launch site to advance India's space capabilities.",
+    "Sriharikota was selected for its favorable azimuth corridor and proximity to the equator.",
+    "The site became operational in 1971 with the launch of the Rohini-125 sounding rocket."
+  ],
+  "tags": ["History", "Sarabhai", "SHAR", "Launch Station"]
+},
+{
+  "title": "SDSC SHAR: Geography & Biodiversity",
+  "section": "About",
+  "content": [
+    "The island is located in the Pulicat backwaters, between Buckingham Canal and the Bay of Bengal.",
+    "It is home to eucalyptus, casuarina, coconut, palm, and freshwater ponds with rich biodiversity.",
+    "Sriharikota receives both monsoons and is visited by migratory birds during October–December."
+  ],
+  "tags": ["Geography", "Climate", "Biodiversity", "Pulicat Lake"]
+}
+]
