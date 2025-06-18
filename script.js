@@ -18,7 +18,7 @@ function sendMessage() {
 
   appendMessage("Typing...", "bot");
 
-  fetch("https://400d-2409-40f0-500f-cce0-a549-354a-e623-68e9.ngrok-free.app/ask", { // 👈 Replace with hosted backend if needed
+  fetch("https://0ff9-2409-40f0-501b-7d0-c59d-78a9-1239-5f9f.ngrok-free.app", { // 👈 Replace with hosted backend if needed
     method: "POST",
     headers: { "Content-Type": "application/json" },
     body: JSON.stringify({ query: message })
